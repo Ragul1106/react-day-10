@@ -23,7 +23,7 @@ const Page12 = () => {
   return (
     <div className="container">
       <Card className="p-4 shadow-lg animate__animated animate__fadeInUp">
-        <h2 className="mb-3 text-secondary">⏳ Delayed API Fetching</h2>
+        <h2 className="mb-3 text-secondary"> Delayed API Fetching</h2>
         {loading ? (
           <div className="d-flex align-items-center">
             <Spinner animation="border" variant="secondary" />

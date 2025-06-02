@@ -18,7 +18,7 @@ const Page11 = () => {
   return (
     <div className="container">
       <Card className="p-4 shadow-lg animate__animated animate__fadeIn">
-        <h2 className="mb-3 text-primary">👥 Fetching Data with Fake API</h2>
+        <h2 className="mb-3 text-primary"> Fetching Data with Fake API</h2>
         {loading ? (
           <div className="d-flex align-items-center">
             <Spinner animation="border" variant="primary" />

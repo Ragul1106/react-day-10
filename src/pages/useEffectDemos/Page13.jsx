@@ -19,7 +19,7 @@ const Page13 = () => {
   return (
     <div className="container">
       <Card className="p-4 shadow-lg animate__animated animate__fadeInRight">
-        <h2 className="mb-3 text-success">👆 Button Click API Fetching</h2>
+        <h2 className="mb-3 text-success"> Button Click API Fetching</h2>
         <Button variant="success" onClick={fetchUsers} disabled={loading}>
           {loading ? 'Fetching...' : 'Fetch Users'}
         </Button>

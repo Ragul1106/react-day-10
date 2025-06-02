@@ -16,7 +16,7 @@ const Page5 = () => {
   return (
     <div className="container">
       <Card className="p-4 shadow-lg animate__animated animate__fadeInLeft">
-        <h2 className="mb-3 text-danger">🧠 Multiple useEffect Hooks</h2>
+        <h2 className="mb-3 text-danger"> Multiple useEffect Hooks</h2>
         <Form>
           <Form.Group className="mb-3">
             <Form.Label>Name</Form.Label>

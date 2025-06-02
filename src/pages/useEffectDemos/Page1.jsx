@@ -6,7 +6,7 @@ const Page1 = () => {
   return (
     <div className="container">
       <Card className="p-4 shadow-lg animate__animated animate__fadeInUp">
-        <h2 className="mb-3 text-primary">🔍 Introduction to useEffect</h2>
+        <h2 className="mb-3 text-primary"> Introduction to useEffect</h2>
         <p className="lead">
           The <code>useEffect</code> hook lets you perform side effects in functional components.
           It's similar to <code>componentDidMount</code>, <code>componentDidUpdate</code>, and <code>componentWillUnmount</code> in class-based components.

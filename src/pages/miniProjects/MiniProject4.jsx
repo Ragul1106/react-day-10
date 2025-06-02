@@ -26,7 +26,7 @@ const MiniProject4 = () => {
   return (
     <div className="container my-4">
       <Card className="p-4 shadow-lg animate__animated animate__fadeInRight">
-        <h2 className="mb-3 text-primary">🔍 Mini Project 4: Search Filter</h2>
+        <h2 className="mb-3 text-primary"> Mini Project 4: Search Filter</h2>
         <Form.Group className="mb-3">
           <Form.Label>Search users by name:</Form.Label>
           <Form.Control

@@ -9,7 +9,7 @@ const Page3 = () => {
   return (
     <div className="container">
       <Card className="p-4 shadow-lg animate__animated animate__fadeIn">
-        <h2 className="mb-3 text-info">📌 Effect with Empty Dependency Array</h2>
+        <h2 className="mb-3 text-info"> Effect with Empty Dependency Array</h2>
         <p className="lead">Open the console to see a message logged once on component mount.</p>
       </Card>
     </div>

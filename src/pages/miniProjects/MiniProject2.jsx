@@ -17,7 +17,7 @@ const MiniProject2 = () => {
   return (
     <div className="container">
       <Card className="p-4 shadow-lg animate__animated animate__fadeInDown">
-        <h2 className="mb-3 text-success">👥 Mini Project 2: User List</h2>
+        <h2 className="mb-3 text-success"> Mini Project 2: User List</h2>
         {loading ? (
           <Spinner animation="border" />
         ) : (

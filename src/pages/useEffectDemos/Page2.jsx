@@ -9,7 +9,7 @@ const Page2 = () => {
   return (
     <div className="container">
       <Card className="p-4 shadow-lg animate__animated animate__zoomIn">
-        <h2 className="mb-3 text-success">✅ Basic useEffect Example</h2>
+        <h2 className="mb-3 text-success"> Basic useEffect Example</h2>
         <p className="lead">Check your browser console — it logs "Component Mounted" when this component loads.</p>
       </Card>
     </div>

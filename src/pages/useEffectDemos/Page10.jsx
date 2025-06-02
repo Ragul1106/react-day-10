@@ -16,7 +16,7 @@ const Page10 = () => {
   return (
     <div className="container">
       <Card className="p-4 shadow-lg animate__animated animate__fadeInDown">
-        <h2 className="mb-3 text-info">🎯 Condition-Based Side Effects</h2>
+        <h2 className="mb-3 text-info"> Condition-Based Side Effects</h2>
         <p className="lead">Increment the counter and watch the console for even numbers.</p>
         <Button variant="info" onClick={() => setCounter(counter + 1)}>
           Increment Counter ({counter})

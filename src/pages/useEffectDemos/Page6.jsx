@@ -13,7 +13,7 @@ const Page6 = () => {
   return (
     <div className="container">
       <Card className="p-4 shadow-lg animate__animated animate__fadeInUp">
-        <h2 className="mb-3 text-danger">🧹 Cleanup Function</h2>
+        <h2 className="mb-3 text-danger"> Cleanup Function</h2>
         <p className="lead">
           Open the console. "Component Mounted" logs on mount, and "Component Unmounted" logs when this component unmounts.
         </p>
